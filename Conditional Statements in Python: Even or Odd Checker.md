@@ -22,8 +22,8 @@ else:
 
 ```
 ## Output
-Enter a number: 7  
-ODD
+![Screenshot 2025-05-13 175546](https://github.com/user-attachments/assets/4549adde-ba41-4e62-9cce-f387d349ea4d)
+
 
 
 ## Result
