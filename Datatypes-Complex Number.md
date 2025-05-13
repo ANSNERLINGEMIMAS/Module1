@@ -24,11 +24,8 @@ print("Imaginary part:", x.imag)
 ```
 
 ## Output
-Enter the real part: 3  
-Enter the imaginary part: 4  
-The complex number is: (3+4j)  
-Real part: 3.0  
-Imaginary part: 4.0
+![Screenshot 2025-05-13 180442](https://github.com/user-attachments/assets/fdc17256-3647-4241-933a-aa0ce1bcde1d)
+
 
 
 ## Result
