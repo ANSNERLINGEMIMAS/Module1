@@ -15,8 +15,8 @@ print(men_stepped_on_the_moon)
 ```
 
 ## Output
-Enter a string: Neil Armstrong was the first man to step on the moon.  
-Neil Armstrong was the first man to step on the moon.
+![Screenshot 2025-05-13 180838](https://github.com/user-attachments/assets/b4d97d3a-7be5-4b57-8234-8ca99b1d8411)
+
 
 
 ## Result
